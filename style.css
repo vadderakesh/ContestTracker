@@ -1,0 +1,69 @@
+.nameClass {
+text-align: center;
+color: blue;
+font-size: larger;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+};
+.divclass {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+};
+.startTimeClass {
+
+};
+#contest {
+          
+};
+#timing {
+
+}
+.heading {
+    color:teal;
+    font-size: 50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+.footer {
+    padding: 10px;
+    color: white;
+}
+.button {
+    border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #4CAF50;
+}
+.select {
+display: inline-block;
+height: 30px;
+width: 150px;
+outline: none;
+color: #74646e;
+border: 1px solid #ccc;
+border-radius: 5px;
+box-shadow: 1px 1px 2px #999;
+background: #eee;
+}
+
+.label {
+    text-align:center;
+    display: inline-block;
+height: 30px;
+width: 150px;
+color: #74646e;
+background: #eee;
+}
+
+.alertClass {
+    text-align: center;
+    color:rgb(52, 54, 153);
+    font-size: 25;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
